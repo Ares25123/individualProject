@@ -1,0 +1,2 @@
+# individualProject
+ Индивидуальеый проект
