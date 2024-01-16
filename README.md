@@ -1,4 +1,4 @@
-# individualProject
+# HLTV.ORG
  ![Логотип](https://steamuserimages-a.akamaihd.net/ugc/284099289595016497/77897AFF45867D06B002CF35D03E312F4B857A07/ "Логотип GitHub")
  = 
  Название продукта
